@@ -43,7 +43,6 @@
         <root url="file://$USER_HOME$/python/cnn/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/cnn/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-1294913236" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -55,7 +54,6 @@
         <root url="file://$USER_HOME$/python/cnn/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/cnn/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-1294913236" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Email Parser interpreter library">
@@ -128,13 +126,11 @@
       <CLASSES>
         <root url="file:///usr/lib/python2.7" />
         <root url="file://$USER_HOME$/python/monapi/lib/python2.7/site-packages" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/lib/python2.7" />
         <root url="file://$USER_HOME$/python/monapi/lib/python2.7/site-packages" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="MonAPI Library interpreter library">
@@ -147,7 +143,6 @@
         <root url="file://$USER_HOME$/python/monapi_library/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/monapi_library/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-642119315" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -159,7 +154,6 @@
         <root url="file://$USER_HOME$/python/monapi_library/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/monapi_library/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-642119315" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Nagios interpreter library">
@@ -172,7 +166,6 @@
         <root url="file://$USER_HOME$/python/nagios/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/nagios/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/1005057053" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -184,17 +177,12 @@
         <root url="file://$USER_HOME$/python/nagios/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/nagios/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/1005057053" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 2.7.12 (/usr/bin/python2.7) interpreter library">
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="Saltstack interpreter library">
       <CLASSES>
