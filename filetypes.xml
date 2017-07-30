@@ -4,16 +4,17 @@
       <mapping pattern="new_relic_usage" type="PLAIN_TEXT" />
       <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="edn" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping pattern="collectd" type="Python" />
       <mapping ext="wsgi" type="Python" />
+      <mapping ext="jinja" type="YAML" />
       <mapping ext="nova" type="YAML" />
       <mapping ext="sls" type="YAML" />
-      <mapping ext="jinja" type="YAML" />
       <mapping pattern="*.edn.*" type="EDN" />
       <mapping pattern="riemann.config" type="Clojure" />
     </extensionMap>
