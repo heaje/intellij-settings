@@ -1,0 +1,55 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.12 (/opt/local/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/readline" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/python_opentsdb-0.0.1-py2.7.egg!/" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/zope.interface-4.1.2-py2.7-macosx-10.11-x86_64.egg" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/ujson-1.33-py2.7-macosx-10.11-x86_64.egg!/" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/six-1.9.0-py2.7.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/requests-2.6.0-py2.7.egg" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pytz-2015.2-py2.7.egg!/" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/python_dateutil-2.4.1-py2.7.egg!/" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pandas-0.18.1-py2.7-macosx-10.11-x86_64.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2017.2/python_stubs/-2131660280" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/readline" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/python_opentsdb-0.0.1-py2.7.egg!/" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/zope.interface-4.1.2-py2.7-macosx-10.11-x86_64.egg" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/ujson-1.33-py2.7-macosx-10.11-x86_64.egg!/" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/six-1.9.0-py2.7.egg" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/requests-2.6.0-py2.7.egg" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pytz-2015.2-py2.7.egg!/" />
+        <root url="jar:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/python_dateutil-2.4.1-py2.7.egg!/" />
+        <root url="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pandas-0.18.1-py2.7-macosx-10.11-x86_64.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2017.2/python_stubs/-2131660280" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
