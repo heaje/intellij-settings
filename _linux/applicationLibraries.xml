@@ -284,7 +284,6 @@
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
         <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/1502119485" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
@@ -306,7 +305,6 @@
         <root url="file:///usr/lib/python2.7/dist-packages" />
         <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
         <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
         <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/1502119485" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
