@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="cst_node_exporter.sls" type="PLAIN_TEXT" />
       <mapping pattern="new_relic_usage" type="PLAIN_TEXT" />
       <mapping pattern="redhat_sysconfig" type="PLAIN_TEXT" />
       <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
