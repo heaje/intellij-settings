@@ -56,6 +56,39 @@
         <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-1294913236" />
       </SOURCES>
     </library>
+    <library name="Collectd interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/python/collectd/lib/python2.7" />
+        <root url="file://$USER_HOME$/python/collectd/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/python/collectd/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/python/collectd/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.2/system/python_stubs/1157209853" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/python/collectd/lib/python2.7" />
+        <root url="file://$USER_HOME$/python/collectd/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/python/collectd/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/python/collectd/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.2/system/python_stubs/1157209853" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Email Parser interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/python/email_parser/lib/python2.7" />
