@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="cst_node_exporter.sls" type="PLAIN_TEXT" />
       <mapping pattern="new_relic_usage" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="redhat_sysconfig" type="PLAIN_TEXT" />
-      <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="openssh" type="PLAIN_TEXT" />
+      <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
       <mapping ext="edn" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="logrotate" type="PLAIN_TEXT" />
