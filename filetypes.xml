@@ -9,6 +9,7 @@
       <mapping pattern="openssh" type="PLAIN_TEXT" />
       <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
       <mapping ext="edn" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="logrotate" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
