@@ -339,6 +339,39 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Saltstack interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/python/saltstack/lib/python2.7" />
+        <root url="file://$USER_HOME$/python/saltstack/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/python/saltstack/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/python/saltstack/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/1502119485" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/python/saltstack/lib/python2.7" />
+        <root url="file://$USER_HOME$/python/saltstack/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/python/saltstack/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/python/saltstack/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/1502119485" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="stub [puppet module]">
       <CLASSES>
         <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
