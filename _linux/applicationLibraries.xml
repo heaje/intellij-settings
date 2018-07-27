@@ -44,7 +44,6 @@
         <root url="file://$USER_HOME$/python/cfgin/src/monserv-utils" />
         <root url="file://$USER_HOME$/python/cfgin/src/newrelic-api" />
         <root url="file://$USER_HOME$/python/cfgin/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/2126934133" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -62,7 +61,6 @@
         <root url="file://$USER_HOME$/python/cfgin/src/monserv-utils" />
         <root url="file://$USER_HOME$/python/cfgin/src/newrelic-api" />
         <root url="file://$USER_HOME$/python/cfgin/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/2126934133" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -79,7 +77,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/cnn/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/cnn/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1294913236" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -95,7 +92,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/cnn/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/cnn/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1294913236" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -178,7 +174,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/nagios/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/nagios/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1751342946" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -194,7 +189,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/nagios/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/nagios/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1751342946" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -277,7 +271,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/newrelic-api/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1836530812" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -293,7 +286,39 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/newrelic-api/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1836530812" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (nagios-config-ams) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/python/nagios-config-ams/lib/python2.7" />
+        <root url="file://$USER_HOME$/python/nagios-config-ams/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/python/nagios-config-ams/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/python/nagios-config-ams/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/660869855" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/python/nagios-config-ams/lib/python2.7" />
+        <root url="file://$USER_HOME$/python/nagios-config-ams/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/python/nagios-config-ams/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/python/nagios-config-ams/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/660869855" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -312,7 +337,6 @@
         <root url="file://$USER_HOME$/python/pcrc/src/monserv-utils" />
         <root url="file://$USER_HOME$/python/pcrc/src/newrelic-api" />
         <root url="file://$USER_HOME$/python/pcrc/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/347019464" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -330,7 +354,6 @@
         <root url="file://$USER_HOME$/python/pcrc/src/monserv-utils" />
         <root url="file://$USER_HOME$/python/pcrc/src/newrelic-api" />
         <root url="file://$USER_HOME$/python/pcrc/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/347019464" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -352,7 +375,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/python-libraries/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/python-libraries/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-333009969" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -368,7 +390,6 @@
         <root url="file:///usr/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/python/python-libraries/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/python/python-libraries/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-333009969" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
