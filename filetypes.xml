@@ -4,28 +4,30 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="riemann.config" type="Clojure" />
       <mapping pattern="*.edn.*" type="EDN" />
-      <mapping pattern="Utility" type="PLAIN_TEXT" />
-      <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
-      <mapping pattern="sudoers" type="PLAIN_TEXT" />
-      <mapping pattern="cst_node_exporter.sls" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="Ini" />
       <mapping pattern="redhat_sysconfig" type="PLAIN_TEXT" />
+      <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
+      <mapping pattern="cst_node_exporter.sls" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="new_relic_usage" type="PLAIN_TEXT" />
       <mapping pattern="openssh" type="PLAIN_TEXT" />
+      <mapping pattern="Utility" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="new_relic_usage" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="logrotate" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="jinja2" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="logrotate" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="oldstyle" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping pattern="collectd" type="Python" />
       <mapping ext="wsgi" type="Python" />
       <mapping ext="nova" type="YAML" />
       <mapping ext="sls" type="YAML" />
       <mapping ext="jinja" type="YAML" />
+      <removed_mapping ext="cfg" approved="true" type="Bash" />
     </extensionMap>
   </component>
 </application>

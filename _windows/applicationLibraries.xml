@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 (nagios-ams) interpreter library">
+      <CLASSES>
+        <root url="file://C:/python/nagios-ams/Lib" />
+        <root url="file://C:/python/nagios-ams/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/python/nagios-ams" />
+        <root url="file://C:/python/nagios-ams/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1874412904" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/python/nagios-ams/Lib" />
+        <root url="file://C:/python/nagios-ams/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/python/nagios-ams" />
+        <root url="file://C:/python/nagios-ams/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1874412904" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
