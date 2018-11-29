@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="riemann.config" type="Clojure" />
+      <mapping pattern="*.edn.*" type="EDN" />
       <mapping pattern="Utility" type="PLAIN_TEXT" />
       <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
@@ -12,7 +14,6 @@
       <mapping pattern="openssh" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="logrotate" type="PLAIN_TEXT" />
-      <mapping ext="edn" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
@@ -25,8 +26,6 @@
       <mapping ext="nova" type="YAML" />
       <mapping ext="sls" type="YAML" />
       <mapping ext="jinja" type="YAML" />
-      <mapping pattern="*.edn.*" type="EDN" />
-      <mapping pattern="riemann.config" type="Clojure" />
     </extensionMap>
   </component>
 </application>
