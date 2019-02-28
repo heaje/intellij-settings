@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="env_conf" type="PLAIN_TEXT" />
       <mapping pattern="Utility" type="PLAIN_TEXT" />
       <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
