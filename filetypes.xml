@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="env_conf" type="PLAIN_TEXT" />
       <mapping pattern="Utility" type="PLAIN_TEXT" />
       <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
@@ -29,6 +28,8 @@
       <mapping ext="nova" type="YAML" />
       <mapping ext="sls" type="YAML" />
       <mapping ext="jinja" type="YAML" />
+      <mapping ext="standalone" type="YAML_EX" />
+      <mapping ext="distributed" type="YAML_EX" />
       <removed_mapping ext="cfg" approved="true" type="Bash" />
       <mapping pattern="*.edn.*" type="EDN" />
       <mapping pattern="riemann.config" type="Clojure" />
