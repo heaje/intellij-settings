@@ -2,14 +2,8 @@
   <component name="libraryTable">
     <library name="Python 2.7 (extractor) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/extractor/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/extractor/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/extractor/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/extractor/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-2421557" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -18,14 +12,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/extractor/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/extractor/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/extractor/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/extractor/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-2421557" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -35,13 +23,8 @@
     </library>
     <library name="Python 2.7 (kafka) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/kafka/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/kafka/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/kafka/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/kafka/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-673710967" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
@@ -51,13 +34,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/kafka/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/kafka/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/kafka/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/kafka/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-673710967" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
@@ -68,14 +46,8 @@
     </library>
     <library name="Python 2.7 (monapi) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/monapi/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/monapi/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/monapi/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/monapi/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-1533996951" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -84,14 +56,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/monapi/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/monapi/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/monapi/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/monapi/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-1533996951" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -101,14 +67,8 @@
     </library>
     <library name="Python 2.7 (monserv_utils) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/monserv_utils/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/monserv_utils/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/monserv_utils/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/monserv_utils/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-905237605" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -117,14 +77,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/monserv_utils/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/monserv_utils/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/monserv_utils/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/monserv_utils/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-905237605" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -134,14 +88,8 @@
     </library>
     <library name="Python 2.7 (newrelic-api) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/newrelic-api/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/1302946455" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -150,14 +98,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/newrelic-api/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/newrelic-api/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/1302946455" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -167,14 +109,8 @@
     </library>
     <library name="Python 2.7 (newrelic-integrations) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/newrelic-integrations/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/newrelic-integrations/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/newrelic-integrations/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/newrelic-integrations/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/970007286" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -183,14 +119,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/newrelic-integrations/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/newrelic-integrations/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/newrelic-integrations/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/newrelic-integrations/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/970007286" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -200,17 +130,8 @@
     </library>
     <library name="Python 2.7 (pcrc) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/pcrc/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/pcrc/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/pcrc/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/pcrc/src/monserv-utils" />
-        <root url="file://$USER_HOME$/python/pcrc/src/newrelic-api" />
-        <root url="file://$USER_HOME$/python/pcrc/src/monservices" />
-        <root url="file://$USER_HOME$/python/pcrc/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-1559186477" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -219,17 +140,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/pcrc/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/pcrc/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/pcrc/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/pcrc/src/monserv-utils" />
-        <root url="file://$USER_HOME$/python/pcrc/src/newrelic-api" />
-        <root url="file://$USER_HOME$/python/pcrc/src/monservices" />
-        <root url="file://$USER_HOME$/python/pcrc/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-1559186477" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -239,14 +151,8 @@
     </library>
     <library name="Python 2.7 (salt) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/salt/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/salt/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/salt/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/salt/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-660524127" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -255,14 +161,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/salt/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/salt/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/salt/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/salt/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-660524127" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -272,14 +172,8 @@
     </library>
     <library name="Python 2.7 (webhook_post) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/python/webhook_post/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/webhook_post/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/webhook_post/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/webhook_post/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1152123727" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -288,14 +182,8 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/python/webhook_post/lib/python2.7" />
-        <root url="file://$USER_HOME$/python/webhook_post/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
-        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/python/webhook_post/local/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/python/webhook_post/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1152123727" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
