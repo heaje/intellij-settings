@@ -1,34 +1,31 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile-*" type="Dockerfile" />
-      <mapping pattern="Utility" type="PLAIN_TEXT" />
-      <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
-      <mapping pattern="env_conf" type="PLAIN_TEXT" />
-      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="cst_node_exporter.sls" type="PLAIN_TEXT" />
-      <mapping pattern="redhat_sysconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="new_relic_usage" type="PLAIN_TEXT" />
-      <mapping pattern="openssh" type="PLAIN_TEXT" />
-      <mapping pattern="logrotate" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="redhat_sysconfig" type="PLAIN_TEXT" />
+      <mapping pattern="file_without_yaml_extension" type="PLAIN_TEXT" />
       <mapping pattern="role" type="PLAIN_TEXT" />
+      <mapping pattern="openssh" type="PLAIN_TEXT" />
+      <mapping pattern="Utility" type="PLAIN_TEXT" />
+      <mapping pattern="env_conf" type="PLAIN_TEXT" />
+      <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="logrotate" type="PLAIN_TEXT" />
+      <mapping ext="oldstyle" type="PLAIN_TEXT" />
       <mapping ext="jinja2" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="oldstyle" type="PLAIN_TEXT" />
-      <mapping ext="logrotate" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="collectd" type="Python" />
-      <mapping ext="wsgi" type="Python" />
       <mapping ext="nova" type="YAML" />
-      <mapping ext="jinja" type="YAML" />
       <mapping ext="sls" type="YAML" />
+      <mapping ext="jinja" type="YAML" />
       <mapping ext="example" type="YAML_EX" />
       <mapping ext="standalone" type="YAML_EX" />
       <mapping ext="distributed" type="YAML_EX" />
@@ -43,6 +40,9 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="example" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.edn.*" type="EDN" />
+      <mapping ext="wsgi" type="Python" />
+      <mapping pattern="Dockerfile-*" type="Dockerfile" />
+      <mapping pattern="collectd" type="Python" />
       <mapping pattern="riemann.config" type="Clojure" />
     </extensionMap>
   </component>
