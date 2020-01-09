@@ -3,4 +3,38 @@
     <option name="pluginVersion" value="2019.3" />
     <option name="popupShown" value="true" />
   </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Local, System: Perl 5.30.1" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.30.1 for x86_64-linux-thread-multi" />
+      <homePath value="/usr/bin/perl" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/perl5/5.30/site_perl" type="simple" />
+            <root url="file:///usr/share/perl5/site_perl" type="simple" />
+            <root url="file:///usr/lib/perl5/5.30/vendor_perl" type="simple" />
+            <root url="file:///usr/share/perl5/vendor_perl" type="simple" />
+            <root url="file:///usr/lib/perl5/5.30/core_perl" type="simple" />
+            <root url="file:///usr/share/perl5/core_perl" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="system" />
+      </additional>
+    </perl>
+  </component>
 </application>
