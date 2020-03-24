@@ -1,60 +1,68 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.8 (ids_dim_tools) interpreter library">
+    <library name="Python 2.7 (nagios-ams) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" />
-        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" />
-        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" />
-        <root url="file://$USER_HOME$/python/ids_dim_tools" />
-        <root url="file://$USER_HOME$/python/ids_dim_tools/Lib/site-packages" />
-        <root url="jar://$USER_HOME$/python/ids_dim_tools/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" />
-        <root url="file://$USER_HOME$/python/ids_dim_tools/Lib/site-packages/pip-19.0.3-py3.8.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-1521135501" />
+        <root url="file://C:/python/nagios-ams/Lib" />
+        <root url="file://C:/python/nagios-ams/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/python/nagios-ams" />
+        <root url="file://C:/python/nagios-ams/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1874412904" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" />
-        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" />
-        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" />
-        <root url="file://$USER_HOME$/python/ids_dim_tools" />
-        <root url="file://$USER_HOME$/python/ids_dim_tools/Lib/site-packages" />
-        <root url="jar://$USER_HOME$/python/ids_dim_tools/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" />
-        <root url="file://$USER_HOME$/python/ids_dim_tools/Lib/site-packages/pip-19.0.3-py3.8.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-1521135501" />
+        <root url="file://C:/python/nagios-ams/Lib" />
+        <root url="file://C:/python/nagios-ams/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/python/nagios-ams" />
+        <root url="file://C:/python/nagios-ams/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1874412904" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.8 interpreter library">
+    <library name="Python 2.7 (pcrc) interpreter library">
       <CLASSES>
-        <root url="file:///usr/lib/python3.8" />
-        <root url="file:///usr/lib/python3.8/lib-dynload" />
-        <root url="file:///usr/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-1247971761" />
+        <root url="file://C:/python/pcrc/Lib" />
+        <root url="file://C:/python/pcrc/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/python/pcrc" />
+        <root url="file://C:/python/pcrc/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1484460695" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/lib/python3.8" />
-        <root url="file:///usr/lib/python3.8/lib-dynload" />
-        <root url="file:///usr/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-1247971761" />
+        <root url="file://C:/python/pcrc/Lib" />
+        <root url="file://C:/python/pcrc/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/python/pcrc" />
+        <root url="file://C:/python/pcrc/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/1484460695" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
